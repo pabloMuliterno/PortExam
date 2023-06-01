@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PortGeneric">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PortEnglish/out/artifacts/PortGeneric_jar/PortGeneric.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

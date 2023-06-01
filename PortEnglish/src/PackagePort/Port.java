@@ -21,7 +21,7 @@ public class Port {
             }
         }
     }
-    public int getTotalCheckedContainersByPriority(int priority) {
+    public int getContainerCheckedPriority(int priority) {
         int totalCheckedContainers = 0;
         for (Hub hub : hubs) {
             totalCheckedContainers += hub.checkedContainer(priority);

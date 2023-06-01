@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PortGeneric:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PortGeneric_jar</output-path>
+    <root id="archive" name="PortGeneric.jar">
+      <element id="module-output" name="PortGeneric" />
+    </root>
+  </artifact>
+</component>
